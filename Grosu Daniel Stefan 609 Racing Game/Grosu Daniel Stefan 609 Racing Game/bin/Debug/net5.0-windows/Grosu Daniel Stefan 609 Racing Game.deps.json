@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Grosu Daniel Stefan 609 Racing Game/1.0.0": {
+        "runtime": {
+          "Grosu Daniel Stefan 609 Racing Game.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Grosu Daniel Stefan 609 Racing Game/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
